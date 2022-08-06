@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Save_Bird</string>
+
+    <string name="info"> The Innocent Bird need 200 point in order to escape from enemies
+    and reach its nest . Can you help bird in this challenging task ?</string>
+</resources>
